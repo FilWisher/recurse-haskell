@@ -1,6 +1,6 @@
 # recurse-haskell
 
-Bindings to the Recurse Center API in Haskell
+(Incomplete) bindings to the Recurse Center API in Haskell
 
 ```hs
 import Web.Recurse
